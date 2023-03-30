@@ -1,6 +1,8 @@
-Container unsw/cs6443/webcms4 listening on TCP 5000
+# WebCMS4 Example Vulnerable Application - Docker
 
-start.sh binds to 0.0.0.0:8000
+Container `unsw/cs6443/webcms4` listening on `TCP 5000`
+
+* `./start.sh` binds to `0.0.0.0:8000`
 
 * Demonstrate command injection (submission check)
   * echo ...
